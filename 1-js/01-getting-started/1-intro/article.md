@@ -56,6 +56,7 @@ Masalan:
 - Send requests over the network to remote servers, download and upload files (so-called [AJAX](https://en.wikipedia.org/wiki/Ajax_(programming)) and [COMET](https://en.wikipedia.org/wiki/Comet_(programming)) technologies).
 - Get and set cookies, ask questions to the visitor, show messages.
 - Remember the data on the client-side ("local storage").
+- JavaScript has alot of library and frameworks
 
 ## What CAN'T in-browser JavaScript do?
 
